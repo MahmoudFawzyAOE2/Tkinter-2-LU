@@ -11,4 +11,5 @@ https://www.youtube.com/watch?v=2UdmwndgkaE
 
 
 >I used Pandas only in displaying part 
+
 >Insha' Allah I'll do all the calculations part with pandas soon 
