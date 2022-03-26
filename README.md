@@ -12,4 +12,3 @@ https://www.youtube.com/watch?v=2UdmwndgkaE
 
 >I used Pandas in displaying part only.
 
->Insha' Allah I'll do all the calculations part with pandas soon.
